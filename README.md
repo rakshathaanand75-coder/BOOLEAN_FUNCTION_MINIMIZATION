@@ -53,11 +53,11 @@ endmodule
 
 **RTL realization**
 
-<img width="1600" height="852" alt="image" src="https://github.com/user-attachments/assets/1634dabc-e609-4872-a731-30a9c450ad34" />
+<img width="1492" height="702" alt="image" src="https://github.com/user-attachments/assets/18ef8c2f-f278-487a-bdf2-128b7ef38d51" />
 
 **RTL**
 
-<img width="1600" height="848" alt="image" src="https://github.com/user-attachments/assets/baea6dc1-9ca3-43ed-98a0-1c7f9842b7cd" />
+![Uploading image.png…]()
 
 
 **Timing Diagram**
