@@ -57,7 +57,8 @@ endmodule
 
 **RTL**
 
-![Uploading image.png…]()
+<img width="1483" height="693" alt="image" src="https://github.com/user-attachments/assets/52d9e972-990c-4c07-9e1c-8fe1c0af9db6" />
+
 
 
 **Timing Diagram**
